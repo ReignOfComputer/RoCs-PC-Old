@@ -1,0 +1,47 @@
+08159 WORLD09 Weavile 8-15-2009 A little quick tempered HP 83 
+08159 WORLD09 Weavile 8-15-2009 A little quick tempered HP 84 
+08159 WORLD09 Weavile 8-15-2009 Alert to sounds HP 86 
+08159 WORLD09 Weavile 8-15-2009 Capable of taking hits HP 87 
+08159 WORLD09 Weavile 8-15-2009 Good endurance HP 82 
+08159 WORLD09 Weavile 8-15-2009 Good perseverance HP 84 
+08159 WORLD09 Weavile 8-15-2009 Hates to lose HP 85 
+08159 WORLD09 Weavile 8-15-2009 Hates to lose HP 88 
+08159 WORLD09 Weavile 8-15-2009 Highly curious HP 82 
+08159 WORLD09 Weavile 8-15-2009 Highly curious HP 90 
+08159 WORLD09 Weavile 8-15-2009 Highly persistent HP 82 
+08159 WORLD09 Weavile 8-15-2009 Impetuous and silly HP 85 
+08159 WORLD09 Weavile 8-15-2009 Likes to fight HP 83 
+08159 WORLD09 Weavile 8-15-2009 Likes to fight HP 86 
+08159 WORLD09 Weavile 8-15-2009 Likes to relax HP 90 
+08159 WORLD09 Weavile 8-15-2009 Likes to run HP 88 
+08159 WORLD09 Weavile 8-15-2009 Likes to run HP 90 
+08159 WORLD09 Weavile 8-15-2009 Likes to thrash about HP 82 
+08159 WORLD09 Weavile 8-15-2009 Likes to thrash about HP 86 
+08159 WORLD09 Weavile 8-15-2009 Loves to eat HP 91 
+08159 WORLD09 Weavile 8-15-2009 Mischievous HP 87 
+08159 WORLD09 Weavile 8-15-2009 Often dozes off HP 89 
+08159 WORLD09 Weavile 8-15-2009 Often lost in thought HP 82 
+08159 WORLD09 Weavile 8-15-2009 Often scatters things HP 90 
+08159 WORLD09 Weavile 8-15-2009 Proud of its power HP 82 
+08159 WORLD09 Weavile 8-15-2009 Quick tempered HP 88 
+08159 WORLD09 Weavile 8-15-2009 Quick to flee HP 86 
+08159 WORLD09 Weavile 8-15-2009 Scatters things often HP 88 
+08159 WORLD09 Weavile 8-15-2009 Scatters things often HP 90 
+08159 WORLD09 Weavile 8-15-2009 Somewhat of a clown HP 88 
+08159 WORLD09 Weavile 8-15-2009 Somewhat of a clown HP 89 
+08159 WORLD09 Weavile 8-15-2009 Somewhat stubborn HP 85 
+08159 WORLD09 Weavile 8-15-2009 Somewhat vain HP 82 
+08159 WORLD09 Weavile 8-15-2009 Somewhat vain HP 87 
+08159 WORLD09 Weavile 8-15-2009 Strong willed HP 83 
+08159 WORLD09 Weavile 8-15-2009 Strongly defiant HP 85 
+08159 WORLD09 Weavile 8-15-2009 Strongly defiant HP 86 
+08159 WORLD09 Weavile 8-15-2009 Sturdy body HP 85 
+08159 WORLD09 Weavile 8-15-2009 Sturdy body HP 88 
+08159 WORLD09 Weavile 8-15-2009 Thoroughly cunning HP 82 
+08159 WORLD09 Weavile 8-15-2009 Very finicky HP 85 
+08159 WORLD09 Weavile 8-15-2009 Very finicky HP 88 
+08159 WORLD09 Weavile 8-16-2009 Good perseverance HP 89 
+08159 WORLD09 Weavile 8-16-2009 Impetuous and silly HP 85 
+08159 WORLD09 Weavile 8-16-2009 Loves to eat HP 91 
+08159 WORLD09 Weavile 8-16-2009 Strong willed HP 88 
+

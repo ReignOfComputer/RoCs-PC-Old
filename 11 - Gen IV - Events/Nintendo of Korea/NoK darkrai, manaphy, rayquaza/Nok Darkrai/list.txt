@@ -1,0 +1,22 @@
+11088_Nintendo of Korea_Darkrai_Bashful_Genderless_Korea_11-9-2008_Likes to relax_HP 139_.pkm
+11088_Nintendo of Korea_Darkrai_Bold_Genderless_Korea_11-9-2008_Loves to eat_HP 127_.pkm
+11088_Nintendo of Korea_Darkrai_Brave_Genderless_Korea_11-8-2008_Often dozes off_HP 157_.pkm
+11088_Nintendo of Korea_Darkrai_Brave_Genderless_Korea_11-8-2008_Very finicky_HP 152_.pkm
+11088_Nintendo of Korea_Darkrai_Calm_Genderless_Korea_11-9-2008_Mischievous_HP 129_.pkm
+11088_Nintendo of Korea_Darkrai_Careful_Genderless_Korea_11-8-2008_Somewhat vain_HP 139_.pkm
+11088_Nintendo of Korea_Darkrai_Careful_Genderless_Korea_11-9-2008_Somewhat stubborn_HP 134_.pkm
+11088_Nintendo of Korea_Darkrai_Hardy_Genderless_Korea_11-8-2008_Capable of taking hits_HP 132_.pkm
+11088_Nintendo of Korea_Darkrai_Hasty_Genderless_Korea_11-8-2008_Loves to eat_HP 145_.pkm
+11088_Nintendo of Korea_Darkrai_Jolly_Genderless_Korea_11-9-2008_Very finicky_HP 131_.pkm
+11088_Nintendo of Korea_Darkrai_Lax_Genderless_Korea_11-8-2008_Thoroughly cunning_HP 143_.pkm
+11088_Nintendo of Korea_Darkrai_Lax_Genderless_Korea_11-9-2008_Quick to flee_HP 130_.pkm
+11088_Nintendo of Korea_Darkrai_Lonely_Genderless_Korea_11-9-2008_Good endurance_HP 135_.pkm
+11088_Nintendo of Korea_Darkrai_Mild_Genderless_Korea_11-9-2008_Quick to flee_HP 132_.pkm
+11088_Nintendo of Korea_Darkrai_Modest_Genderless_Korea_11-8-2008_Mischievous_HP 129_.pkm
+11088_Nintendo of Korea_Darkrai_Naive_Genderless_Korea_11-9-2008_Somewhat of a clown_HP 142_.pkm
+11088_Nintendo of Korea_Darkrai_Naughty_Genderless_Korea_11-8-2008_Quick tempered_HP 152_.pkm
+11088_Nintendo of Korea_Darkrai_Quirky_Genderless_Korea_11-8-2008_Likes to thrash about_HP 136_.pkm
+11088_Nintendo of Korea_Darkrai_Sassy_Genderless_Korea_11-9-2008_Proud of its power_HP 137_.pkm
+11088_Nintendo of Korea_Darkrai_Serious_Genderless_Korea_11-9-2008_Thoroughly cunning_HP 136_.pkm
+11088_Nintendo of Korea_Darkrai_Timid_Genderless_Korea_11-8-2008_Scatters things often_HP 129_.pkm
+list.txt

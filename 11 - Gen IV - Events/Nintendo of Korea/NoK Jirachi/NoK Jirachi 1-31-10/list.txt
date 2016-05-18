@@ -1,0 +1,26 @@
+01300 Nintendo of Korea Jirachi Adamant 1-31-10 Highly curious HP 28 
+01300 Nintendo of Korea Jirachi Bashful 1-31-10 Likes to relax HP 26 
+01300 Nintendo of Korea Jirachi Bold 1-31-10 Somewhat of a clown HP 23 
+01300 Nintendo of Korea Jirachi Brave 1-31-10 Quick to flee HP 27 
+01300 Nintendo of Korea Jirachi Calm 1-31-10 Capable of taking hits HP 22 
+01300 Nintendo of Korea Jirachi Careful 1-31-10 Mischievous HP 25 
+01300 Nintendo of Korea Jirachi Docile 1-31-10 Often dozes off HP 26 
+01300 Nintendo of Korea Jirachi Gentle 1-31-10 Hates to lose HP 25 
+01300 Nintendo of Korea Jirachi Hardy 1-31-10 A little quick tempered HP 25 
+01300 Nintendo of Korea Jirachi Hasty 1-31-10 Somewhat stubborn HP 25 
+01300 Nintendo of Korea Jirachi Impish 1-31-10 Good perseverance HP 25 
+01300 Nintendo of Korea Jirachi Jolly 1-31-10 Sturdy body HP 26 
+01300 Nintendo of Korea Jirachi Lax 1-31-10 Likes to thrash about HP 25 
+01300 Nintendo of Korea Jirachi Lonely 1-31-10 Alert to sounds HP 26 
+01300 Nintendo of Korea Jirachi Mild 1-31-10 Likes to thrash about HP 26 
+01300 Nintendo of Korea Jirachi Modest 1-31-10 Likes to thrash about HP 23 
+01300 Nintendo of Korea Jirachi Naive 1-31-10 Often lost in thought HP 25 
+01300 Nintendo of Korea Jirachi Naughty 1-31-10 Often dozes off HP 28 
+01300 Nintendo of Korea Jirachi Quiet 1-31-10 Somewhat vain HP 25 
+01300 Nintendo of Korea Jirachi Quirky 1-31-10 Mischievous HP 25 
+01300 Nintendo of Korea Jirachi Rash 1-31-10 Likes to thrash about HP 26 
+01300 Nintendo of Korea Jirachi Relaxed 1-31-10 Quick to flee HP 25 
+01300 Nintendo of Korea Jirachi Sassy 1-31-10 Likes to relax HP 26 
+01300 Nintendo of Korea Jirachi Serious 1-31-10 Loves to eat HP 26 
+01300 Nintendo of Korea Jirachi Timid 1-31-10 Good perseverance HP 22 
+
